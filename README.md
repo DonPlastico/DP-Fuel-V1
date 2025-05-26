@@ -20,5 +20,7 @@ Añadelo en tu server.cfg como DP-Fuel. (Si le cambias el nombre, dejara de func
 
 ![image](https://github.com/user-attachments/assets/df1cb4ea-90dd-4702-b7f6-ab839b4b0a18)
 
-<h2>Configuración facil de entender</h2>![Uploading mqdefault.jpg…]()
+<h2>Configuración facil de entender</h2>
 
+![image](https://github.com/user-attachments/assets/e89feec3-b0e5-4981-97c2-c1c4e3270050)
+![image](https://github.com/user-attachments/assets/0dc4a9f1-9f68-41cf-829e-5e4722a42226)
