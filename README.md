@@ -18,6 +18,7 @@ Añadelo en tu server.cfg como DP-Fuel. (Si le cambias el nombre, dejara de func
 <h1>Fotos</h1>
 
 ![image](https://github.com/user-attachments/assets/ab1f857e-a967-49a8-9d84-e47ad8b1baff)
+
 ![image](https://github.com/user-attachments/assets/39450eed-e65b-4356-af85-1c03a717cf51)
 
 <h2>Configuración facil de entender</h2>
