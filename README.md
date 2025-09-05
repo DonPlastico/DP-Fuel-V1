@@ -13,7 +13,7 @@ Añadelo en tu server.cfg como DP-Fuel. (Si le cambias el nombre, dejara de func
 
 
 <h1>Video</h1>
-<a href="https://youtu.be/O-VgfJeW1uM">Video del Script</a>
+<a href="https://youtu.be/xE4wWIkPLes">Video del Script</a>
 
 <h1>Fotos</h1>
 
