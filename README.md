@@ -2,11 +2,15 @@
 
 **DP-Fuel V1** es un sistema ligero, moderno y optimizado de gestión de combustible para servidores de **FiveM**. Combina una arquitectura modular en Lua con una interfaz NUI reactiva desarrollada en **React, TypeScript y Vite**, ofreciendo un rendimiento fluido y una experiencia limpia para los jugadores.
 
-## 🎥 Vídeo y Capturas
+<h1>Fotos</h1>
 
-*(Pega aquí el contenido multimedia de tu README original: enlaces de vídeo y capturas de pantalla)*
+![image](https://github.com/user-attachments/assets/5f39dc98-d8b3-49c0-be09-71a7e008522e)
+![image](https://github.com/user-attachments/assets/df1cb4ea-90dd-4702-b7f6-ab839b4b0a18)
 
----
+<h2>Configuración facil de entender</h2>
+
+![image](https://github.com/user-attachments/assets/e89feec3-b0e5-4981-97c2-c1c4e3270050)
+![image](https://github.com/user-attachments/assets/0dc4a9f1-9f68-41cf-829e-5e4722a42226)
 
 ## ✨ Características Principales
 
